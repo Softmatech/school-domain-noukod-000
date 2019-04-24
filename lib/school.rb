@@ -12,5 +12,5 @@ class School
   def add_student(name)
     @roster[:student] = name
   end
-  
+
 end
