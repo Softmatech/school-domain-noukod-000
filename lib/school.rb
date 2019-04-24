@@ -1,7 +1,7 @@
 # code here!
 
 class School
-  def name=(name)
+  def initialized(name)
     @name = name
   end
 end
