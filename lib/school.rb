@@ -3,5 +3,6 @@
 class School
   def initialize(name)
     @name = name
+    rooster = {}
   end
 end
